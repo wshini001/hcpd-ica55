@@ -1,0 +1,15 @@
+.DS_Store
+*.nii
+*.nii.gz
+*.tsv
+*.par
+*.log
+*.RData
+*.ica/
+*.feat/
+results/
+logs/
+review-sources/
+*.fsf
+*.png
+*.zip
